@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <main className="flex flex-col gap-16">
       <Hero />
-      <WhyUS />
+      <WhyUS /> 
       <HowItWorks />
       <section className="container mx-auto max-w-7xl overflow-hidden">
         <ServiceSection
