@@ -17,7 +17,7 @@ export default function Home() {
 "
           cta="Explore Skin Diagnosis"
           ctaLink="/skin-diagnosis"
-          image="/skin.jpg"
+          image="/image10.jpg"
           side="left"
         />
         <ServiceSection
@@ -25,7 +25,7 @@ export default function Home() {
           description="Detect signs of cataracts, glaucoma, diabetic retinopathy, and other conditions."
           cta="Explore Eye Diagnosis"
           ctaLink="/eye-diagnosis"
-          image="/eye.jpg"
+          image="/image7.jpeg"
           side="right"
         />
         <ServiceSection
@@ -33,7 +33,7 @@ export default function Home() {
           description="Upload lab reports (CBC, lipid profiles, etc.) and get a detailed interpretation."
           cta="Explore Blood Report Analysis"
           ctaLink="/blood-diagnosis"
-          image="/blood.jpg"
+          image="/image4.jpg"
           side="left"
         />
         <ServiceSection
@@ -41,7 +41,7 @@ export default function Home() {
           description="Early cognitive screening using language, behavior, and test data."
           cta="Explore Alzheimer’s Screening"
           ctaLink="/alzhaimar"
-          image="/alzheimer.jpg"
+          image="/image8.jpg"
           side="right"
         />
         <ServiceSection
@@ -54,7 +54,7 @@ export default function Home() {
                         The model works exclusively with brain MRIs (T1-weighted or T2-weighted axial slices) in PNG or JPEG format. It does not support CT scans, X-rays, or PET images.`}
           cta="Explore Brain Tumor Detection"
           ctaLink="/brain-tumor"
-          image="/brain.jpg"
+          image="/image9.jpg"
           side="left"
         />
       </section>
