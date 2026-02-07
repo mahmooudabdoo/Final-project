@@ -4,7 +4,7 @@ import Image from "next/image";
 const LogoLink = () => {
   return (
     <Link href="/" className="flex items-center gap-2 text-2xl">
-      <Image src="/SD15.png" alt="Logo" width={50} height={50} />
+      <Image src="/SD15.png" alt="Logo" width={40} height={40} />
       <span className="font-black">
   <span className="text-primary">Scan</span>
   <span className="text-white drop-shadow-[0_1px_2px_rgba(0,0,0,0.8)]">
